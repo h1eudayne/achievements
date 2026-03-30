@@ -2,28 +2,22 @@
 
 A collection of my professional certificates, awards, and honors.
 
-## 📜 Certificates
+## Certificates
 
-| Year | Certificate | Issuer |
-|------|------------|--------|
-| 2024 | Fullstack Developer | FPT Software |
-| 2025 | CTF Cybersus Challenge Participation | FIA |
-| 2026 | AI-Assisted Development | Claude Code |
+| Year | Certificate | Issuer | Preview |
+|------|------------|--------|---------|
+| 2024 | Fullstack Developer | FPT Software | [View](certificates/2024/FPTSoftware_Fullstack_VoDucHieu.png) |
+| 2025 | CTF Cybersus Challenge Participation | FIA | [View](certificates/2025/FIA_CTF_Cybersus_Challenge_Participation_VoDucHieu.jpg) |
+| 2026 | AI-Assisted Development | Claude Code | [View](certificates/2026/Claude_Code_AI_Assisted_Development_HieuVo.png) |
 
-## 🥇 Awards
-
-*Coming soon...*
-
-## 📁 Structure
+## Structure
 
 ```
-achievements/
-├── certificates/
+├── certificates/        # Professional certificates
 │   ├── 2024/
 │   ├── 2025/
 │   └── 2026/
-├── awards/
-│   └── 2025/
+├── awards/              # Awards & honors (coming soon)
 └── README.md
 ```
 
